@@ -1,0 +1,48 @@
+body{
+    padding: 100px;
+}
+
+/* .title{
+    text-align: center;
+} */
+
+.login_in{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    box-shadow: 5px 5px 100px gray;
+    padding: 30px;
+    width: 40%;
+    margin: auto;
+}
+
+#transaction{
+    display: none;
+    text-align: center;
+    color: blue
+}
+
+.status{
+    margin: 0 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.deposit{
+    background-color: rgb(26, 173, 26);
+}
+
+.withdraw{
+    background-color: rgb(192, 32, 32);
+}
+
+.balance{
+    background-color: rgb(206, 206, 2);
+}
